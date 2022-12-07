@@ -1,0 +1,15 @@
+[submodule "KunalKushwaha_DevOps_Bootcamp"]
+	path = KunalKushwaha_DevOps_Bootcamp
+	url = https://github.com/ShubhamBhavsar101/DevOps-Bootcamp
+[submodule "Coursera-Using_Databases_With_Python"]
+	path = Coursera-Using_Databases_With_Python
+	url = https://github.com/ShubhamBhavsar101/Coursera--Using-Databases-with-Python
+[submodule "Coursera--Programming-for-Everybody-Getting-Started-with-Python"]
+	path = Coursera--Programming-for-Everybody-Getting-Started-with-Python
+	url = https://github.com/ShubhamBhavsar101/Coursera--Programming-for-Everybody-Getting-Started-with-Python-
+[submodule "Coursera--Python-Data-Structures"]
+	path = Coursera--Python-Data-Structures
+	url = https://github.com/ShubhamBhavsar101/Coursera--Python-Data-Structures
+[submodule "Coursera--Using-Python-to-Access-Web-Data"]
+	path = Coursera--Using-Python-to-Access-Web-Data
+	url = https://github.com/ShubhamBhavsar101/Coursera--Using-Python-to-Access-Web-Data
